@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chigspithadiya@gmail.com**
 
-- 📄 Know about my experiences [https://chigspithadiya.github.io/Chirag-Pithadiya/assets/doc/Chirag_Pithadiya_UIUX_Designer_CV_2025.pdf](https://chigspithadiya.github.io/Chirag-Pithadiya/assets/doc/Chirag_Pithadiya_UIUX_Designer_CV_2025.pdf)
+- 📄 Know about my experiences [Chirag_Pithadiya_UIUX_Designer_CV](https://chigspithadiya.github.io/Chirag-Pithadiya/assets/doc/Chirag_Pithadiya_UIUX_Designer_CV_2025.pdf)
 
 - ⚡ Fun fact **My brainstorming sessions start with doodles and end with Figma prototypes!**
 
