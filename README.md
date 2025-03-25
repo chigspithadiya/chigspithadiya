@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chirag Pithadiya</h1>
-<h3 align="center">Passionate UX/UI Designer | Human-Centered Design | Crafting Intuitive & Engaging Digital Experiences | Proficient in Figma, Adobe XD, CSS, JS & More | Seeking Opportunities to Innovate & Elevate UX</h3>
+<h1 align="left">Hi 👋, I'm Chirag Pithadiya</h1>
+<h3 align="left">Passionate UX/UI Designer | Human-Centered Design | Crafting Intuitive & Engaging Digital Experiences | Proficient in Figma, Adobe XD, CSS, JS & More | Seeking Opportunities to Innovate & Elevate UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chigspithadiya&label=Profile%20views&color=0e75b6&style=flat" alt="chigspithadiya" /> </p>
 
